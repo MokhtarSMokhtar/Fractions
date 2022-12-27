@@ -1,0 +1,15 @@
+/Users/mokhtar/Projects/Fractions/Fractions/bin/Debug/net6.0/Fractions
+/Users/mokhtar/Projects/Fractions/Fractions/bin/Debug/net6.0/Fractions.deps.json
+/Users/mokhtar/Projects/Fractions/Fractions/bin/Debug/net6.0/Fractions.runtimeconfig.json
+/Users/mokhtar/Projects/Fractions/Fractions/bin/Debug/net6.0/Fractions.dll
+/Users/mokhtar/Projects/Fractions/Fractions/bin/Debug/net6.0/Fractions.pdb
+/Users/mokhtar/Projects/Fractions/Fractions/obj/Debug/net6.0/Fractions.csproj.AssemblyReference.cache
+/Users/mokhtar/Projects/Fractions/Fractions/obj/Debug/net6.0/Fractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mokhtar/Projects/Fractions/Fractions/obj/Debug/net6.0/Fractions.AssemblyInfoInputs.cache
+/Users/mokhtar/Projects/Fractions/Fractions/obj/Debug/net6.0/Fractions.AssemblyInfo.cs
+/Users/mokhtar/Projects/Fractions/Fractions/obj/Debug/net6.0/Fractions.csproj.CoreCompileInputs.cache
+/Users/mokhtar/Projects/Fractions/Fractions/obj/Debug/net6.0/Fractions.dll
+/Users/mokhtar/Projects/Fractions/Fractions/obj/Debug/net6.0/refint/Fractions.dll
+/Users/mokhtar/Projects/Fractions/Fractions/obj/Debug/net6.0/Fractions.pdb
+/Users/mokhtar/Projects/Fractions/Fractions/obj/Debug/net6.0/Fractions.genruntimeconfig.cache
+/Users/mokhtar/Projects/Fractions/Fractions/obj/Debug/net6.0/ref/Fractions.dll
